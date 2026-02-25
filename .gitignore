@@ -1,0 +1,11 @@
+# Ignore local environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# VS Code
+.vscode/
