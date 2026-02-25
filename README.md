@@ -1,4 +1,4 @@
-﻿Simple Chatbot (EPAM DIAL / AzureOpenAI)
+﻿Simple Chatbot (AzureOpenAI)
 
 Overview
 - Small Python project demonstrating a simple chatbot client that can use the AzureOpenAI endpoint or run in a local mock mode for testing.
@@ -38,4 +38,5 @@ python -m src.chatbot.cli
 Notes
 - The project supports a --mock flag that avoids calling the network so tests and demos can run offline.
 - This scaffold is intentionally small. Adjust models, error handling, and tests as needed for the course task.
+
 
